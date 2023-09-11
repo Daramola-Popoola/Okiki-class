@@ -1,2 +1,3 @@
 const word = "welcome to the git class";
-console.log(word);
+const num = 3+3;
+console.log(word, num);
